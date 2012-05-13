@@ -10,9 +10,9 @@ By: Zachary Massia
 
 // Initialize the libraries
 LiquidCrystal lcd(26, 27, 28, 29, 30, 31);
-Ping             ping(48,0,0);
-AF_DCMotor leftSide(1, MOTOR12_8KHZ);
-AF_DCMotor rightSide(2, MOTOR12_8KHZ);
+Ping          ping(48,0,0);
+AF_DCMotor    leftSide(1, MOTOR12_8KHZ);
+AF_DCMotor    rightSide(2, MOTOR12_8KHZ);
 // -------------------------------------------
 
 
